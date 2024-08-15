@@ -1,2 +1,3 @@
 Hi I'M Shaikh Mohammed Ishaque 
-Fron-end developer technologies like HTML,CSS,JavaScript GSAP & Tailwind 
+
+I'm Fron-end developer technologies like HTML,CSS,JavaScript GSAP & Tailwind 
